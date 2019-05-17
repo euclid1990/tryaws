@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    ".git",
+    "src/assets/**/*.js"
+  ],
+  "watch": ["src"],
+  "exec": "eslint src && babel-node ./src/index.js",
+  "signal": "SIGHUP",
+  "ext": "js,json",
+  "delay": "250"
+}

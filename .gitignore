@@ -1,0 +1,23 @@
+# build files
+miniapp/dst
+miniapp/src/public
+
+# dependencies
+miniapp/node_modules
+
+# cache files
+.cache
+
+# database directories
+msdata
+pgdata
+rmqdata
+dev.sqlite3
+
+# open flag file
+.opn
+
+# misc files
+.DS_Store
+.env
+*.log

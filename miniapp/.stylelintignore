@@ -1,0 +1,5 @@
+node_modules
+dst
+src/assets/images
+src/assets/scripts
+src/public/**/*.css
